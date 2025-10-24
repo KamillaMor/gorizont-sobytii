@@ -17,7 +17,7 @@ export default function BookingForm() {
     setIsLoading(true);
 
     // 🔐 ЗАМЕНИ ЭТИ ДАННЫЕ НА СВОИ!
-    const botToken = '8454182719:AAEjjT4myN3uK99b3NXcC716RPNg4q4wr1I'; // Токен от BotFather
+    const botToken = 'mmm'; // Токен от BotFather
     const chatId = '901574900'; // Твой chat ID
 
     const telegramMessage = `
